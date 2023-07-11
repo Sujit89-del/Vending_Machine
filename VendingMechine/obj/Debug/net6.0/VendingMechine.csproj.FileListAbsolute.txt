@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\VendingMechine\VendingMechine\obj\Debug\net6.0\VendingMechine.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\VendingMechine\VendingMechine\obj\Debug\net6.0\VendingMechine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\VendingMechine\VendingMechine\obj\Debug\net6.0\VendingMechine.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\VendingMechine\VendingMechine\obj\Debug\net6.0\VendingMechine.AssemblyInfo.cs
+C:\Users\Admin\source\repos\VendingMechine\VendingMechine\obj\Debug\net6.0\VendingMechine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\VendingMechine\VendingMechine\bin\Debug\net6.0\VendingMechine.exe
+C:\Users\Admin\source\repos\VendingMechine\VendingMechine\bin\Debug\net6.0\VendingMechine.deps.json
+C:\Users\Admin\source\repos\VendingMechine\VendingMechine\bin\Debug\net6.0\VendingMechine.runtimeconfig.json
+C:\Users\Admin\source\repos\VendingMechine\VendingMechine\bin\Debug\net6.0\VendingMechine.dll
+C:\Users\Admin\source\repos\VendingMechine\VendingMechine\bin\Debug\net6.0\VendingMechine.pdb
+C:\Users\Admin\source\repos\VendingMechine\VendingMechine\obj\Debug\net6.0\VendingMechine.dll
+C:\Users\Admin\source\repos\VendingMechine\VendingMechine\obj\Debug\net6.0\refint\VendingMechine.dll
+C:\Users\Admin\source\repos\VendingMechine\VendingMechine\obj\Debug\net6.0\VendingMechine.pdb
+C:\Users\Admin\source\repos\VendingMechine\VendingMechine\obj\Debug\net6.0\VendingMechine.genruntimeconfig.cache
+C:\Users\Admin\source\repos\VendingMechine\VendingMechine\obj\Debug\net6.0\ref\VendingMechine.dll
